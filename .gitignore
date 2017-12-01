@@ -1,0 +1,6 @@
+*.sublime-project
+*.sublime-workspace
+*.class
+uploads
+*.txt
+dev-files
